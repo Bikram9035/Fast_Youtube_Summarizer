@@ -1,0 +1,6 @@
+python-dotenv
+streamlit
+youtube_transcript_api
+groq
+openai
+google-generativeai
